@@ -1,0 +1,41 @@
+Booking_ID,Hotel,Lead_Time,Arrival_Month,Customer_Type,Meal,Market_Segment,ADR,Booking_Status
+B001,City Hotel,12,January,Transient,BB,Online TA,85,Canceled
+B002,Resort Hotel,45,January,Transient,HB,Online TA,120,Not Canceled
+B003,City Hotel,30,January,Contract,BB,Corporate,75,Not Canceled
+B004,Resort Hotel,60,February,Transient,HB,Direct,140,Not Canceled
+B005,City Hotel,20,February,Transient,BB,Online TA,95,Canceled
+B006,City Hotel,15,February,Group,SC,Offline TA,80,Not Canceled
+B007,Resort Hotel,75,February,Transient,FB,Online TA,155,Canceled
+B008,City Hotel,10,March,Transient,BB,Direct,90,Not Canceled
+B009,Resort Hotel,35,March,Contract,HB,Corporate,110,Not Canceled
+B010,City Hotel,50,March,Transient,BB,Online TA,105,Canceled
+B011,Resort Hotel,25,March,Group,HB,Offline TA,130,Not Canceled
+B012,City Hotel,18,April,Transient,BB,Online TA,98,Not Canceled
+B013,Resort Hotel,80,April,Transient,HB,Direct,165,Canceled
+B014,City Hotel,40,April,Contract,SC,Corporate,88,Not Canceled
+B015,Resort Hotel,55,January,Transient,FB,Online TA,150,Not Canceled
+B016,City Hotel,22,January,Group,BB,Offline TA,82,Canceled
+B017,Resort Hotel,90,January,Transient,HB,Online TA,175,Canceled
+B018,City Hotel,8,February,Transient,BB,Direct,78,Not Canceled
+B019,Resort Hotel,42,February,Contract,HB,Corporate,125,Not Canceled
+B020,City Hotel,28,February,Transient,BB,Online TA,100,Canceled
+B021,Resort Hotel,65,March,Group,FB,Offline TA,145,Not Canceled
+B022,City Hotel,14,March,Transient,SC,Direct,72,Not Canceled
+B023,Resort Hotel,38,March,Transient,HB,Online TA,135,Canceled
+B024,City Hotel,33,April,Contract,BB,Corporate,92,Not Canceled
+B025,Resort Hotel,70,April,Transient,HB,Online TA,160,Canceled
+B026,City Hotel,16,April,Group,BB,Offline TA,84,Not Canceled
+B027,Resort Hotel,48,January,Transient,HB,Direct,145,Not Canceled
+B028,City Hotel,26,January,Transient,BB,Online TA,88,Canceled
+B029,Resort Hotel,85,February,Contract,FB,Corporate,170,Not Canceled
+B030,City Hotel,19,February,Transient,BB,Direct,91,Not Canceled
+B031,Resort Hotel,58,March,Transient,HB,Online TA,150,Canceled
+B032,City Hotel,11,March,Group,SC,Offline TA,76,Not Canceled
+B033,Resort Hotel,72,April,Transient,HB,Direct,158,Not Canceled
+B034,City Hotel,36,April,Contract,BB,Corporate,89,Canceled
+B035,Resort Hotel,44,January,Group,HB,Offline TA,132,Not Canceled
+B036,City Hotel,24,January,Transient,BB,Online TA,97,Not Canceled
+B037,Resort Hotel,68,February,Transient,FB,Online TA,162,Canceled
+B038,City Hotel,17,February,Contract,SC,Corporate,81,Not Canceled
+B039,Resort Hotel,52,March,Transient,HB,Direct,142,Not Canceled
+B040,City Hotel,29,April,Transient,BB,Online TA,93,Canceled
